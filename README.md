@@ -3,6 +3,8 @@ Digital (RS485 - based) soil moisture and temperature sensor
 
 A version of [I2C soil moisture sensor](https://github.com/Miceuz/i2c-moisture-sensor) with several updates - antistatic protection, local voltage regulation and RS485 networking.
 
+[![](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/products/9883/)
+
 ![](rs485-moist-sensor.png)
 
 This is a contact-less capacitive soil moisture sensor, a continuation of my [I2C soil moisture sensor](https://github.com/Miceuz/i2c-moisture-sensor). This particular version of the sensor is suited for more professional installations where long cable runs is a requirement. It adds a local voltage regulator to mitigate the voltage drop and RS485 transceiver to accommodate long wires, also reverse polarity and an additional ESD protection level is added. 
